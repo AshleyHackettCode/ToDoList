@@ -1,4 +1,4 @@
-[View Project here](https://https://ashley-atm.netlify.app/)
+[View Project here](https://ashley-atm.netlify.app/)
 
 # Getting Started with Create React App
 
